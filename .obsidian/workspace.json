@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "32f3506d20d53e12",
+    "type": "split",
+    "children": [
+      {
+        "id": "51e2eb43452282fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82f6e4e7573d7e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Largest element in an array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Largest element in an array"
+            }
+          },
+          {
+            "id": "b7c1d05b1d7995e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Second largest or smallest element in an array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Second largest or smallest element in an array"
+            }
+          },
+          {
+            "id": "bbe1cf29d18f5227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Check if the array is sorted.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Check if the array is sorted"
+            }
+          },
+          {
+            "id": "aa567864327b302a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/4. Remove duplicates in-place from a sorted array.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Remove duplicates in-place from a sorted array"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d5b18f6dd9c3d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "278c32554df1d76b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dc4c082a246e8d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d62e56bd41da852c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1149160c6ed4f6fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "85a0070319b804ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee110d476d2c044f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61fdd609e98dc28d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Remove duplicates in-place from a sorted array.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4. Remove duplicates in-place from a sorted array"
+            }
+          },
+          {
+            "id": "9af3e5638247a004",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Remove duplicates in-place from a sorted array.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4. Remove duplicates in-place from a sorted array"
+            }
+          },
+          {
+            "id": "57e7c3828eedf566",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "33af6fab556f27f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. Remove duplicates in-place from a sorted array.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4. Remove duplicates in-place from a sorted array"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "8dc4c082a246e8d8",
+  "lastOpenFiles": [
+    "Arrays/3. Check if the array is sorted.md",
+    "Arrays/2. Second largest or smallest element in an array.md",
+    "Arrays/1. Largest element in an array.md",
+    "Arrays/4. Remove duplicates in-place from a sorted array.md",
+    "3. Check if the array is sorted.md",
+    "4. Remove duplicates in-place from a sorted array.md",
+    "2. Second largest or smallest element in an array.md",
+    "1. Largest element in an array.md",
+    "Day 1 Arrays.md",
+    "Excalidraw/Drawing 2025-08-11 22.33.19.excalidraw.md",
+    "Excalidraw",
+    "Untitled.md"
+  ]
+}
