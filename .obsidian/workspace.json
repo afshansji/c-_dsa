@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/4. Remove duplicates in-place from a sorted array.md",
+                "file": "Striver SDE Sheet/Best Time to Buy and Sell Stock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Remove duplicates in-place from a sorted array"
+              "title": "Best Time to Buy and Sell Stock"
             }
           }
         ],
@@ -214,12 +214,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8dc4c082a246e8d8",
+  "active": "aa567864327b302a",
   "lastOpenFiles": [
+    "Striver SDE Sheet/Kadane's Algorithm.md",
+    "Striver SDE Sheet/Best Time to Buy and Sell Stock.md",
+    "Arrays/4. Remove duplicates in-place from a sorted array.md",
+    "Striver SDE Sheet",
     "Arrays/3. Check if the array is sorted.md",
     "Arrays/2. Second largest or smallest element in an array.md",
     "Arrays/1. Largest element in an array.md",
-    "Arrays/4. Remove duplicates in-place from a sorted array.md",
     "3. Check if the array is sorted.md",
     "4. Remove duplicates in-place from a sorted array.md",
     "2. Second largest or smallest element in an array.md",
