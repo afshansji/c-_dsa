@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "51e2eb43452282fc",
+        "id": "0b2719a386e9d31c",
         "type": "tabs",
         "children": [
           {
-            "id": "d82f6e4e7573d7e4",
+            "id": "bd81160c4b45ae12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Largest element in an array.md",
+                "file": "Striver SDE Sheet/Day2/Merge Overlapping Intervals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Largest element in an array"
-            }
-          },
-          {
-            "id": "b7c1d05b1d7995e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Second largest or smallest element in an array.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Second largest or smallest element in an array"
-            }
-          },
-          {
-            "id": "bbe1cf29d18f5227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Check if the array is sorted.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Check if the array is sorted"
-            }
-          },
-          {
-            "id": "aa567864327b302a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Striver SDE Sheet/Best Time to Buy and Sell Stock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Best Time to Buy and Sell Stock"
+              "title": "Merge Overlapping Intervals"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -214,22 +172,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa567864327b302a",
+  "active": "bd81160c4b45ae12",
   "lastOpenFiles": [
+    "Striver SDE Sheet/Day2/Rotate Matrix.md",
+    "Striver SDE Sheet/Day2/Merge Overlapping Intervals.md",
+    "Pasted image 20250831235502.png",
+    "Pasted image 20250831213347.png",
+    "Pasted image 20250831213253.png",
+    "Pasted image 20250831211604.png",
+    "Pasted image 20250831211451.png",
+    "Striver SDE Sheet/Sort an array of 0's 1's & 2's.md",
+    "Striver SDE Sheet/Day1/Sort an array of 0's 1's & 2's.md",
+    "Striver SDE Sheet/Day1/Set Matrix Zeros.md",
+    "Striver SDE Sheet/Day1/Pascal Triangle.md",
+    "Striver SDE Sheet/Day1/Next Permutation.md",
+    "Striver SDE Sheet/Day1/Kadane's Algorithm.md",
+    "Striver SDE Sheet/Day1/Best Time to Buy and Sell Stock.md",
+    "Striver SDE Sheet/Day1",
+    "Striver SDE Sheet/Day2",
+    "Striver SDE Sheet/Set Matrix Zeros.md",
+    "Striver SDE Sheet/Pascal Triangle.md",
+    "Striver SDE Sheet/Next Permutation.md",
     "Striver SDE Sheet/Kadane's Algorithm.md",
     "Striver SDE Sheet/Best Time to Buy and Sell Stock.md",
-    "Arrays/4. Remove duplicates in-place from a sorted array.md",
-    "Striver SDE Sheet",
     "Arrays/3. Check if the array is sorted.md",
     "Arrays/2. Second largest or smallest element in an array.md",
+    "Arrays/Day 1 Arrays.md",
+    "Pasted image 20250820003103.png",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2025-08-11 22.33.19.excalidraw.md",
+    "Pasted image 20250820224759.png",
+    "Pasted image 20250820224201.png",
+    "Pasted image 20250820220342.png",
+    "Pasted image 20250820000530.png",
+    "Arrays/4. Remove duplicates in-place from a sorted array.md",
+    "Striver SDE Sheet",
     "Arrays/1. Largest element in an array.md",
     "3. Check if the array is sorted.md",
     "4. Remove duplicates in-place from a sorted array.md",
     "2. Second largest or smallest element in an array.md",
     "1. Largest element in an array.md",
     "Day 1 Arrays.md",
-    "Excalidraw/Drawing 2025-08-11 22.33.19.excalidraw.md",
-    "Excalidraw",
-    "Untitled.md"
+    "Excalidraw"
   ]
 }
